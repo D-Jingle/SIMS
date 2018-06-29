@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1505457669 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\add_information.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"head.h"
+
+1505457082 c:\users\administrator\desktop\学生信息管理系统 代靖\management\head.h
+
+1505457760 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\change_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457136 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\creat_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1505457760 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\delete_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505459742 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\display_information.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457812 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460561 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\read_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460393 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\save_information.c
+	<stdlib.h>
+	<stdio.h>
+	"head.h"
+
+1505457760 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\sort_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457812 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\search_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457912 source:c:\users\administrator\desktop\学生信息管理系统 代靖\management\creat_lianbiao.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457670 source:e:\学生信息管理系统 代靖\management\add_information.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"head.h"
+
+1505457084 e:\学生信息管理系统 代靖\management\head.h
+
+1505457762 source:e:\学生信息管理系统 代靖\management\change_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457138 source:e:\学生信息管理系统 代靖\management\creat_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1505457914 source:e:\学生信息管理系统 代靖\management\creat_lianbiao.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457762 source:e:\学生信息管理系统 代靖\management\delete_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505459744 source:e:\学生信息管理系统 代靖\management\display_information.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457814 source:e:\学生信息管理系统 代靖\management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460562 source:e:\学生信息管理系统 代靖\management\read_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460394 source:e:\学生信息管理系统 代靖\management\save_information.c
+	<stdlib.h>
+	<stdio.h>
+	"head.h"
+
+1505457814 source:e:\学生信息管理系统 代靖\management\search_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457762 source:e:\学生信息管理系统 代靖\management\sort_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505542956 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\add_information.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"head.h"
+
+1505457084 c:\users\lenovo\desktop\学生信息管理系统 代靖\management\head.h
+
+1505543436 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\change_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457138 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\creat_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1505545805 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\creat_lianbiao.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457762 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\delete_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505459744 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\display_information.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505457814 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460562 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\read_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460394 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\save_information.c
+	<stdlib.h>
+	<stdio.h>
+	"head.h"
+
+1505543600 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\search_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505548300 source:c:\users\lenovo\desktop\学生信息管理系统 代靖\management\sort_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505616734 source:g:\学生信息管理系统 代靖xin\management\change_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505457084 g:\学生信息管理系统 代靖xin\management\head.h
+
+1505619378 source:g:\学生信息管理系统 代靖xin\management\creat_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1505545806 source:g:\学生信息管理系统 代靖xin\management\creat_lianbiao.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505616734 source:g:\学生信息管理系统 代靖xin\management\delete_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505620454 source:g:\学生信息管理系统 代靖xin\management\display_information.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505620108 source:g:\学生信息管理系统 代靖xin\management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460562 source:g:\学生信息管理系统 代靖xin\management\read_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460394 source:g:\学生信息管理系统 代靖xin\management\save_information.c
+	<stdlib.h>
+	<stdio.h>
+	"head.h"
+
+1505543602 source:g:\学生信息管理系统 代靖xin\management\search_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505548302 source:g:\学生信息管理系统 代靖xin\management\sort_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505618334 source:g:\学生信息管理系统 代靖xin\management\add_information.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"head.h"
+
+1505618334 source:e:\学生信息管理系统 代靖xin\management\add_information.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"head.h"
+
+1505457084 e:\学生信息管理系统 代靖xin\management\head.h
+
+1505616734 source:e:\学生信息管理系统 代靖xin\management\change_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505619378 source:e:\学生信息管理系统 代靖xin\management\creat_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1505545806 source:e:\学生信息管理系统 代靖xin\management\creat_lianbiao.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505616734 source:e:\学生信息管理系统 代靖xin\management\delete_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505620454 source:e:\学生信息管理系统 代靖xin\management\display_information.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1505620108 source:e:\学生信息管理系统 代靖xin\management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460562 source:e:\学生信息管理系统 代靖xin\management\read_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505460394 source:e:\学生信息管理系统 代靖xin\management\save_information.c
+	<stdlib.h>
+	<stdio.h>
+	"head.h"
+
+1505543602 source:e:\学生信息管理系统 代靖xin\management\search_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1505548302 source:e:\学生信息管理系统 代靖xin\management\sort_information.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
